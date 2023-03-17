@@ -1,4 +1,3 @@
-url := "http://localhost:3000/cat.jpg"
 
 # Clean the build directory
 clean::
