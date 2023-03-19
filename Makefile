@@ -1,3 +1,7 @@
+# Launch the watchtower server
+server::
+	@cd server && \
+		node server.js
 
 # Clean the build directory
 clean::
